@@ -1,0 +1,168 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin-top: 50px auto 0 auto;
+  font-family: "Pacifico", cursive;
+  font-size:5.625rem;
+  color:#66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-size:2.5rem;
+  color:#66BFBF;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color:#11999E;
+}
+.my-desc{
+
+
+color:#40514E;
+font-weight: bold;
+line-height:10;
+
+}
+.hr-shape{
+
+border-style:dotted;
+border-top: 10px dotted #EAF6F6;
+border-bottom: none;
+border-left:none;
+border-right:none;
+width:80px;
+
+
+}
+h1 + h2{
+
+font-weight: normal;
+
+
+
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+  background-color:#66BFBF;
+  padding: 50px 0 20px;
+}
+
+.frontend {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.computer-img{
+  border: 1px;
+  border-radius:100%;
+  width:25%;
+  float: left;
+  margin-right: 30px;
+
+}
+a{
+
+  color:#11999E;
+  margin:20px 60px ;
+
+}
+.galatasaray-img{
+  border: 1px;
+  border-radius:100%;
+  width:25%;
+  float: right;
+  margin-left: 30px;
+
+}
+.profile{
+
+
+
+}
+.skills{
+
+
+
+
+}
+.skill-row{
+
+width:50%;
+margin:100px auto 100px auto;
+text-align:left;
+line-height:2;
+
+}
+
+.contact-me{
+
+padding-bottom: 50px;
+
+
+
+}
+
+.btn {
+-webkit-border-radius: 12px;
+-moz-border-radius: 12px;
+border-radius: 12px;
+height: 50px;
+line-height: 50px;
+color: #FFFFFF;
+font-family: Verdana;
+width: 200px;
+font-size: 24px;
+font-weight: 100;
+padding: 2px;
+background-color: #66BFBF;
+text-decoration: none;
+display: inline-block;
+cursor: pointer;
+text-align: center;
+}
+
+.footer-link{
+
+color:#11999E;
+text-decoration: none;
+padding: 2px;
+
+}
+.footer-paragraph{
+
+  margin-bottom:0px;
+  margin-top:30px;
+  padding :20px;
+
+
+}
